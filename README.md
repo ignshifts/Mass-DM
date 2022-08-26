@@ -16,4 +16,4 @@ $ npm install
 ```
 **This will install all needed packages for the repo to work.**
 
-
+**Note**: It's best to DM-all upon the ready event. Also, you will get ratelimited very quickly so good luck!
