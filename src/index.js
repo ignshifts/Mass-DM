@@ -1,6 +1,6 @@
 const Discord = require('discord.js-selfbot-v13');
 const { Client, MessageEmbed, Intents } = require('discord.js-selfbot-v13');
-const client = new Client({ checkUpdate: true, });
+const client = new Client({ checkUpdate: false, });
 require('dotenv').config();
 
 
