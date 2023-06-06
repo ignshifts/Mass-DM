@@ -1,19 +1,28 @@
-# Discord Mass DM
+<h1 align="center"> 📥 Mass DM 📥 </h1>
 
-A way to easily DM all members in a Discord Server.
+<p align='center'>
+  <b>A way to easily DM all members in a Discord Server.</b><br>
+</p>
 
-# Requirements
-
-- [Node.js v16 or higher](https://nodejs.org/en/)
-- [Discord.JS v13](https://discord.js.org/#/)
-- [dotenv](https://github.com/motdotla/dotenv)
-
-# How to Install 
-
+## Installation
+```js
+  * run install.bat OR npm install
 ```
-$ git clone https://github.com/ignshifts/Mass-DM.git
-$ npm install 
-```
-**This will install all needed packages for the repo to work.**
 
-**Note**: It's best to DM-all upon the ready event. Also, you will get ratelimited very quickly so good luck!
+##  Usage:
+```
+  * npm start OR node index.js *
+```
+
+## Intents:
+
+> Enable Server Members Intent
+
+![image](https://github.com/ignshifts/Mass-DM/assets/74390871/4ec5a6be-ab3c-4b17-b13e-967212c0390a)
+
+##  Credits:
+ > Discord : [Shifts#1337](https://discord.com/users/994717305542021244)
+ > <br>Leave a ⭐
+
+
+# ⚠️<b> This will not work with User Accounts / Self Bots. ⚠️
