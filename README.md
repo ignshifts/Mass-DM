@@ -10,7 +10,7 @@
 ```
 
 ##  Usage:
-```
+```js
   * npm start OR node index.js *
 ```
 
