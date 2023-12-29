@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "shifts",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  }
 }
